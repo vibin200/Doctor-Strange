@@ -296,7 +296,7 @@ Tamil_Mob_Movies
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
 ▫️<a href=https://t.me/Tamil_Mob_Movies> ᴍᴏᴠɪᴇ ʜᴜʙ </a>
-▫️<a href=https://t.me/Multi_moviesgroup> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
+▫️<a href=https://t.me/+WIJwH2zgQE9lMDdl> ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​ </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>""" 
 
     RESTART_TXT = """
